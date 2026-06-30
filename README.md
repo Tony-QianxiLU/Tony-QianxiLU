@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Tony-QianxiLU">GitHub</a> |
+  <a href="https://tony-qianxilu.github.io/portfolio/">Portfolio Website</a> |
   <a href="https://ry84fwqnk4abfhufqkhrmz.streamlit.app/">RAG Chatbot Demo</a> |
   <a href="https://tony-qianxilu-ai-agent-assistant.streamlit.app/">Agent Assistant Demo</a>
 </p>
