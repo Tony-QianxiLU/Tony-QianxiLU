@@ -1,62 +1,76 @@
-# Hi, I'm Qianxi Lu
+# Qianxi Lu
 
-Aspiring AI Engineer and GenAI Consultant, building practical AI applications with a focus on RAG, AI agents, automation, and business-facing GenAI systems.
+<p align="center">
+  <strong>AI Engineer in progress | GenAI applications | RAG | Agents | Production-minded portfolios</strong>
+</p>
 
-I come from a multidisciplinary background across urban development planning, structural engineering, and business studies. I am now building a professional AI engineering portfolio that demonstrates my ability to design, build, deploy, and explain production-quality GenAI applications.
+<p align="center">
+  <a href="https://github.com/Tony-QianxiLU">GitHub</a> |
+  <a href="https://ry84fwqnk4abfhufqkhrmz.streamlit.app/">RAG Chatbot Demo</a> |
+  <a href="https://tony-qianxilu-ai-agent-assistant.streamlit.app/">Agent Assistant Demo</a>
+</p>
+
+I am building a professional AI engineering portfolio focused on practical GenAI systems that can be designed, built, deployed, tested, and explained in interviews.
+
+My background combines urban development planning, structural engineering, and business studies. I use that mix to build AI applications that are not only technically functional, but also clear, documented, and useful for real users.
 
 ## Current Focus
 
-- Python for AI engineering
-- Git, GitHub, and professional developer workflows
-- OpenAI API and modern LLM application development
-- Retrieval-Augmented Generation, embeddings, and vector databases
-- FastAPI, Streamlit, and deployable AI products
-- LangChain, LangGraph, LlamaIndex, tool calling, and AI agents
-- Evaluation, documentation, and responsible AI-assisted development
+- Retrieval-augmented generation with document ingestion, chunking, embeddings, vector search, grounded answers, and citations.
+- Tool-using agents with LangGraph-style orchestration, planning, memory, tool execution, and transparent traces.
+- Production engineering habits: tests, CI, deployment docs, release notes, security policies, and professional README files.
+- Interview readiness: architecture explanation, tradeoff discussion, debugging stories, and responsible AI-assisted development.
 
 ## Featured Projects
 
-### AI RAG Chatbot
+| Project | What it demonstrates | Stack | Links |
+| --- | --- | --- | --- |
+| AI RAG Chatbot | Document upload, retrieval, citations, local/OpenAI modes, Streamlit deployment, tests, CI, and docs | Python, Streamlit, Chroma, OpenAI API, pytest, Ruff | [Repo](https://github.com/Tony-QianxiLU/ai-rag-chatbot) / [Live Demo](https://ry84fwqnk4abfhufqkhrmz.streamlit.app/) / [Release v0.2.0](https://github.com/Tony-QianxiLU/ai-rag-chatbot/releases/tag/v0.2.0) |
+| AI Agent Assistant | Planner, tool registry, calculator/search tools, LangGraph workflow, execution memory, tests, CI, and docs | Python, Streamlit, LangGraph, OpenAI API, pytest, Ruff | [Repo](https://github.com/Tony-QianxiLU/ai-agent-assistant) / [Live Demo](https://tony-qianxilu-ai-agent-assistant.streamlit.app/) / [Release v0.2.0](https://github.com/Tony-QianxiLU/ai-agent-assistant/releases/tag/v0.2.0) |
 
-A document-based chatbot using embeddings, a vector database, and LLM-generated responses.
+## Technical Stack
 
-- Tech: Python, LangChain, OpenAI API, Chroma, Streamlit
-- GitHub: [Tony-QianxiLU/ai-rag-chatbot](https://github.com/Tony-QianxiLU/ai-rag-chatbot)
-- Release: [v0.1.1](https://github.com/Tony-QianxiLU/ai-rag-chatbot/releases/tag/v0.1.1)
-- Demo: [Live Streamlit app](https://ry84fwqnk4abfhufqkhrmz.streamlit.app/)
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-API-412991?style=flat&logo=openai&logoColor=white">
+  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Agentic%20Workflows-1C3C3C?style=flat">
+  <img alt="Chroma" src="https://img.shields.io/badge/Chroma-Vector%20DB-5B5FC7?style=flat">
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-Tested-0A9EDC?style=flat&logo=pytest&logoColor=white">
+  <img alt="Ruff" src="https://img.shields.io/badge/Ruff-Linting-D7FF64?style=flat">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?style=flat&logo=githubactions&logoColor=white">
+</p>
 
-### AI Agent Assistant
+## Portfolio Principles
 
-An AI assistant that can use tools to complete structured tasks.
+- Ship usable applications, not toy notebooks.
+- Keep every project reproducible with clear setup, tests, and deployment instructions.
+- Show architecture, tradeoffs, and limitations openly.
+- Use AI coding tools professionally: review the code, understand the system, and document the decisions.
+- Build projects that can support internship and full-time AI engineering interviews.
 
-- Tech: Python, LangGraph, OpenAI API, tool calling
-- GitHub: [Tony-QianxiLU/ai-agent-assistant](https://github.com/Tony-QianxiLU/ai-agent-assistant)
-- Release: [v0.1.1](https://github.com/Tony-QianxiLU/ai-agent-assistant/releases/tag/v0.1.1)
-- Demo: [Live Streamlit app](https://tony-qianxilu-ai-agent-assistant.streamlit.app/)
-
-## Portfolio Direction
-
-I am building a portfolio around real GenAI engineering capabilities:
-
-| Repository | Purpose |
-| --- | --- |
-| [`ai-rag-chatbot`](https://github.com/Tony-QianxiLU/ai-rag-chatbot) | A document-based chatbot using embeddings, retrieval, and LLM responses |
-| [`ai-agent-assistant`](https://github.com/Tony-QianxiLU/ai-agent-assistant) | An AI assistant that can use tools and complete structured tasks |
-| `enterprise-rag` | A more production-oriented RAG system with evaluation and observability |
-| `fastapi-ai-template` | A reusable backend template for AI applications |
-| `genai-playground` | Experiments with prompts, models, APIs, and UI prototypes |
-| `learning-notes` | Structured notes explaining concepts I have learned and implemented |
-
-## How I Work
-
-I actively use AI coding tools such as ChatGPT, Claude, Codex, and Cursor. My goal is not to hide AI assistance, but to use it professionally: understanding the code I ship, reviewing generated work carefully, documenting decisions, and improving every project until I can explain it clearly in interviews.
-
-## Background
+## Education
 
 - MSc Urban Development Planning, University College London
 - MSc Structural Engineering, University of Leeds
-- First Class Honours in Business Studies, University of Greenwich
+- First Class Honours, Business Studies, University of Greenwich
 
-## Career Goal
+## GitHub Activity
 
-I am preparing for AI engineering, GenAI consulting, and applied AI roles where technical execution, business understanding, and clear communication all matter.
+<p>
+  <img height="165" alt="Qianxi Lu GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Tony-QianxiLU&show_icons=true&hide_border=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tony-QianxiLU&layout=compact&hide_border=true">
+</p>
+
+## Next Portfolio Builds
+
+| Planned project | Purpose |
+| --- | --- |
+| Enterprise RAG | Production-style RAG with evaluation, observability, access control patterns, and structured deployment docs |
+| FastAPI AI Template | Reusable backend template for LLM applications, APIs, background jobs, and monitoring hooks |
+| GenAI Playground | Focused experiments comparing prompts, models, tools, retrieval strategies, and UI patterns |
+| Learning Notes | Interview-ready explanations of systems I have implemented and tradeoffs I can discuss |
+
+## Contact
+
+The best place to follow my work is this GitHub profile: [github.com/Tony-QianxiLU](https://github.com/Tony-QianxiLU).
