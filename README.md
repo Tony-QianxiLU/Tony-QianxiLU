@@ -22,7 +22,7 @@ A document-based chatbot using embeddings, a vector database, and LLM-generated 
 
 - Tech: Python, LangChain, OpenAI API, Chroma, Streamlit
 - GitHub: [Tony-QianxiLU/ai-rag-chatbot](https://github.com/Tony-QianxiLU/ai-rag-chatbot)
-- Release: [v0.1.0](https://github.com/Tony-QianxiLU/ai-rag-chatbot/releases/tag/v0.1.0)
+- Release: [v0.1.1](https://github.com/Tony-QianxiLU/ai-rag-chatbot/releases/tag/v0.1.1)
 - Demo: Coming soon
 
 ### AI Agent Assistant
@@ -31,7 +31,7 @@ An AI assistant that can use tools to complete structured tasks.
 
 - Tech: Python, LangGraph, OpenAI API, tool calling
 - GitHub: [Tony-QianxiLU/ai-agent-assistant](https://github.com/Tony-QianxiLU/ai-agent-assistant)
-- Release: [v0.1.0](https://github.com/Tony-QianxiLU/ai-agent-assistant/releases/tag/v0.1.0)
+- Release: [v0.1.1](https://github.com/Tony-QianxiLU/ai-agent-assistant/releases/tag/v0.1.1)
 - Demo: Coming soon
 
 ## Portfolio Direction
