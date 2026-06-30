@@ -14,6 +14,24 @@ I come from a multidisciplinary background across urban development planning, st
 - LangChain, LangGraph, LlamaIndex, tool calling, and AI agents
 - Evaluation, documentation, and responsible AI-assisted development
 
+## Featured Projects
+
+### AI RAG Chatbot
+
+A document-based chatbot using embeddings, a vector database, and LLM-generated responses.
+
+- Tech: Python, LangChain, OpenAI API, Chroma, Streamlit
+- GitHub: Coming soon
+- Demo: Coming soon
+
+### AI Agent Assistant
+
+An AI assistant that can use tools to complete structured tasks.
+
+- Tech: Python, LangGraph, OpenAI API, tool calling
+- GitHub: Coming soon
+- Demo: Coming soon
+
 ## Portfolio Direction
 
 I am building a portfolio around real GenAI engineering capabilities:
