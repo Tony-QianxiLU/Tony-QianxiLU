@@ -30,7 +30,8 @@ A document-based chatbot using embeddings, a vector database, and LLM-generated 
 An AI assistant that can use tools to complete structured tasks.
 
 - Tech: Python, LangGraph, OpenAI API, tool calling
-- GitHub: Coming soon
+- GitHub: [Tony-QianxiLU/ai-agent-assistant](https://github.com/Tony-QianxiLU/ai-agent-assistant)
+- Release: [v0.1.0](https://github.com/Tony-QianxiLU/ai-agent-assistant/releases/tag/v0.1.0)
 - Demo: Coming soon
 
 ## Portfolio Direction
@@ -40,7 +41,7 @@ I am building a portfolio around real GenAI engineering capabilities:
 | Repository | Purpose |
 | --- | --- |
 | [`ai-rag-chatbot`](https://github.com/Tony-QianxiLU/ai-rag-chatbot) | A document-based chatbot using embeddings, retrieval, and LLM responses |
-| `ai-agent-assistant` | An AI assistant that can use tools and complete structured tasks |
+| [`ai-agent-assistant`](https://github.com/Tony-QianxiLU/ai-agent-assistant) | An AI assistant that can use tools and complete structured tasks |
 | `enterprise-rag` | A more production-oriented RAG system with evaluation and observability |
 | `fastapi-ai-template` | A reusable backend template for AI applications |
 | `genai-playground` | Experiments with prompts, models, APIs, and UI prototypes |
