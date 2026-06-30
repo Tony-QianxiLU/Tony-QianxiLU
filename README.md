@@ -21,7 +21,7 @@ I come from a multidisciplinary background across urban development planning, st
 A document-based chatbot using embeddings, a vector database, and LLM-generated responses.
 
 - Tech: Python, LangChain, OpenAI API, Chroma, Streamlit
-- GitHub: Coming soon
+- GitHub: [Tony-QianxiLU/ai-rag-chatbot](https://github.com/Tony-QianxiLU/ai-rag-chatbot)
 - Demo: Coming soon
 
 ### AI Agent Assistant
@@ -38,7 +38,7 @@ I am building a portfolio around real GenAI engineering capabilities:
 
 | Repository | Purpose |
 | --- | --- |
-| `ai-rag-chatbot` | A document-based chatbot using embeddings, retrieval, and LLM responses |
+| [`ai-rag-chatbot`](https://github.com/Tony-QianxiLU/ai-rag-chatbot) | A document-based chatbot using embeddings, retrieval, and LLM responses |
 | `ai-agent-assistant` | An AI assistant that can use tools and complete structured tasks |
 | `enterprise-rag` | A more production-oriented RAG system with evaluation and observability |
 | `fastapi-ai-template` | A reusable backend template for AI applications |
