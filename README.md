@@ -27,7 +27,7 @@ My background combines urban development planning, structural engineering, and b
 | Project | What it demonstrates | Stack | Links |
 | --- | --- | --- | --- |
 | AI RAG Chatbot | Document upload, retrieval, citations, local/OpenAI modes, evaluation reports, Streamlit deployment, tests, CI, and docs | Python, Streamlit, Chroma, OpenAI API, pytest, Ruff | [Repo](https://github.com/Tony-QianxiLU/ai-rag-chatbot) / [Live Demo](https://ry84fwqnk4abfhufqkhrmz.streamlit.app/) / [Release v0.3.0](https://github.com/Tony-QianxiLU/ai-rag-chatbot/releases/tag/v0.3.0) |
-| AI Agent Assistant | Planner, tool registry, calculator/search tools, LangGraph workflow, execution memory, tests, CI, and docs | Python, Streamlit, LangGraph, OpenAI API, pytest, Ruff | [Repo](https://github.com/Tony-QianxiLU/ai-agent-assistant) / [Live Demo](https://tony-qianxilu-ai-agent-assistant.streamlit.app/) / [Release v0.2.0](https://github.com/Tony-QianxiLU/ai-agent-assistant/releases/tag/v0.2.0) |
+| AI Agent Assistant | Planner, tool registry, LangGraph workflow, execution memory, tool error recovery, evaluation reports, tests, CI, and docs | Python, Streamlit, LangGraph, OpenAI API, pytest, Ruff | [Repo](https://github.com/Tony-QianxiLU/ai-agent-assistant) / [Live Demo](https://tony-qianxilu-ai-agent-assistant.streamlit.app/) / [Release v0.3.0](https://github.com/Tony-QianxiLU/ai-agent-assistant/releases/tag/v0.3.0) |
 
 ## Technical Stack
 
