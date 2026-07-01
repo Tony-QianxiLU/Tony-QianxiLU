@@ -31,6 +31,7 @@ My background combines urban development planning, structural engineering, and b
 | AI RAG Chatbot | Document upload, retrieval, citations, local/OpenAI modes, evaluation reports, Streamlit deployment, tests, CI, and docs | Python, Streamlit, Chroma, OpenAI API, pytest, Ruff | [Repo](https://github.com/Tony-QianxiLU/ai-rag-chatbot) / [Live Demo](https://ry84fwqnk4abfhufqkhrmz.streamlit.app/) / [Release v0.3.0](https://github.com/Tony-QianxiLU/ai-rag-chatbot/releases/tag/v0.3.0) |
 | AI Agent Assistant | Planner, tool registry, LangGraph workflow, execution memory, tool error recovery, evaluation reports, tests, CI, and docs | Python, Streamlit, LangGraph, OpenAI API, pytest, Ruff | [Repo](https://github.com/Tony-QianxiLU/ai-agent-assistant) / [Live Demo](https://tony-qianxilu-ai-agent-assistant.streamlit.app/) / [Release v0.3.0](https://github.com/Tony-QianxiLU/ai-agent-assistant/releases/tag/v0.3.0) |
 | AI Resume Analyzer | ATS-style scoring, skill gap detection, keyword matching, bullet rewrites, cover letter generation, interview questions, FastAPI backend, Docker, CI, and evaluation | Python, FastAPI, Streamlit, OpenAI API, pytest, Ruff, Docker | [Repo](https://github.com/Tony-QianxiLU/resume-analyzer) / [Live Demo](https://tony-qianxilu-resume-analyzer.streamlit.app/) / [Release v0.1.1](https://github.com/Tony-QianxiLU/resume-analyzer/releases/tag/v0.1.1) |
+| Enterprise RAG | FastAPI backend with JWT auth and an admin dashboard, multi-format ingestion (PDF/DOCX/PPTX/TXT/Markdown), a Chroma vector store behind a Protocol designed for a pgvector migration, a LlamaIndex-backed alternative retrieval implementation, persisted conversation memory, evaluation suite, Docker Compose, and CI with a Docker build check | Python, FastAPI, Streamlit, LangChain, LlamaIndex, Chroma, SQLAlchemy, Docker | [Repo](https://github.com/Tony-QianxiLU/enterprise-rag) / [Release v0.1.0](https://github.com/Tony-QianxiLU/enterprise-rag/releases/tag/v0.1.0) / [Architecture](https://github.com/Tony-QianxiLU/enterprise-rag/blob/main/docs/architecture.md) |
 
 ## Technical Stack
 
@@ -39,7 +40,10 @@ My background combines urban development planning, structural engineering, and b
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit&logoColor=white">
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-API-412991?style=flat&logo=openai&logoColor=white">
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-Agentic%20Workflows-1C3C3C?style=flat">
+  <img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-Retrieval-6C3EF4?style=flat">
   <img alt="Chroma" src="https://img.shields.io/badge/Chroma-Vector%20DB-5B5FC7?style=flat">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat&logo=fastapi&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat&logo=docker&logoColor=white">
   <img alt="pytest" src="https://img.shields.io/badge/pytest-Tested-0A9EDC?style=flat&logo=pytest&logoColor=white">
   <img alt="Ruff" src="https://img.shields.io/badge/Ruff-Linting-D7FF64?style=flat">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-CI-2088FF?style=flat&logo=githubactions&logoColor=white">
@@ -70,7 +74,6 @@ My background combines urban development planning, structural engineering, and b
 
 | Planned project | Purpose |
 | --- | --- |
-| Enterprise RAG | Production-style RAG with evaluation, observability, access control patterns, and structured deployment docs |
 | FastAPI AI Template | Reusable backend template for LLM applications, APIs, background jobs, and monitoring hooks |
 | GenAI Playground | Focused experiments comparing prompts, models, tools, retrieval strategies, and UI patterns |
 | Learning Notes | Interview-ready explanations of systems I have implemented and tradeoffs I can discuss |
