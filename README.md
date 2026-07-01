@@ -8,7 +8,8 @@
   <a href="https://github.com/Tony-QianxiLU">GitHub</a> |
   <a href="https://tony-qianxilu.github.io/portfolio/">Portfolio Website</a> |
   <a href="https://ry84fwqnk4abfhufqkhrmz.streamlit.app/">RAG Chatbot Demo</a> |
-  <a href="https://tony-qianxilu-ai-agent-assistant.streamlit.app/">Agent Assistant Demo</a>
+  <a href="https://tony-qianxilu-ai-agent-assistant.streamlit.app/">Agent Assistant Demo</a> |
+  <a href="https://tony-qianxilu-resume-analyzer.streamlit.app/">Resume Analyzer Demo</a>
 </p>
 
 I am building a professional AI engineering portfolio focused on practical GenAI systems that can be designed, built, deployed, tested, and explained in interviews.
@@ -19,6 +20,7 @@ My background combines urban development planning, structural engineering, and b
 
 - Retrieval-augmented generation with document ingestion, chunking, embeddings, vector search, grounded answers, and citations.
 - Tool-using agents with LangGraph-style orchestration, planning, memory, tool execution, and transparent traces.
+- Business-facing AI analysis workflows with ATS scoring, structured extraction, skill gaps, and generated career assets.
 - Production engineering habits: tests, CI, deployment docs, release notes, security policies, and professional README files.
 - Interview readiness: architecture explanation, tradeoff discussion, debugging stories, and responsible AI-assisted development.
 
@@ -28,6 +30,7 @@ My background combines urban development planning, structural engineering, and b
 | --- | --- | --- | --- |
 | AI RAG Chatbot | Document upload, retrieval, citations, local/OpenAI modes, evaluation reports, Streamlit deployment, tests, CI, and docs | Python, Streamlit, Chroma, OpenAI API, pytest, Ruff | [Repo](https://github.com/Tony-QianxiLU/ai-rag-chatbot) / [Live Demo](https://ry84fwqnk4abfhufqkhrmz.streamlit.app/) / [Release v0.3.0](https://github.com/Tony-QianxiLU/ai-rag-chatbot/releases/tag/v0.3.0) |
 | AI Agent Assistant | Planner, tool registry, LangGraph workflow, execution memory, tool error recovery, evaluation reports, tests, CI, and docs | Python, Streamlit, LangGraph, OpenAI API, pytest, Ruff | [Repo](https://github.com/Tony-QianxiLU/ai-agent-assistant) / [Live Demo](https://tony-qianxilu-ai-agent-assistant.streamlit.app/) / [Release v0.3.0](https://github.com/Tony-QianxiLU/ai-agent-assistant/releases/tag/v0.3.0) |
+| AI Resume Analyzer | ATS-style scoring, skill gap detection, keyword matching, bullet rewrites, cover letter generation, interview questions, FastAPI backend, Docker, CI, and evaluation | Python, FastAPI, Streamlit, OpenAI API, pytest, Ruff, Docker | [Repo](https://github.com/Tony-QianxiLU/resume-analyzer) / [Live Demo](https://tony-qianxilu-resume-analyzer.streamlit.app/) / [Release v0.1.1](https://github.com/Tony-QianxiLU/resume-analyzer/releases/tag/v0.1.1) |
 
 ## Technical Stack
 
